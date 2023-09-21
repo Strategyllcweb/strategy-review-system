@@ -1,0 +1,16 @@
+{
+    "name": "Strategyllcweb/strategy-review-system",
+    "description": "This plugin is built to take in and process user reviews. It will then funnel the user to the proper channel.",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/Strategyllcweb/strategy-review-system",
+    "authors": [
+      {
+        "name": "Strategy New Media",
+        "homepage": "https://strategynewmedia.com/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.4"
+    }
+  }
